@@ -28,4 +28,3 @@ services:
        - komodod
     links:
        - "komodod:komodod"
-
